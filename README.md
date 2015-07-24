@@ -1,5 +1,5 @@
-A test case for tycho-packaging-plugin + builnumber-maven-plugin
-================================================================
+A test case for tycho-packaging-plugin + buildnumber-maven-plugin
+=================================================================
 
 This is a minimal test case written for investigating an issue with
 `tycho-packaging-plugin` and `buildnumber-maven-plugin`.
