@@ -13,7 +13,8 @@ first in the POM, it would be expected to be executed first, as stated
 in
 [this page](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html)
 and as [a bug fix](https://issues.apache.org/jira/browse/MNG-2258)
-should have made it effective in Maven 3.0.3.
+should have made it effective in Maven 3.0.3 (test case fails using
+Maven 3.3.3).
 
 Related thread on `tycho-user` mailing list:
 https://dev.eclipse.org/mhonarc/lists/tycho-user/msg06632.html
